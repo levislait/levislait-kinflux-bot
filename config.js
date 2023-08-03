@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2250545752448', '‎『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪', true],
-  ['2550545752448', '‎『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪', true], 
+  ['2250545752448', '‎〘Ҡටའටའට•ꝈԱ↻įƑƐའ 🥀〙', true],
+  ['2550545752448', '〘Ҡටའටའට•ꝈԱ↻įƑƐའ 🥀〙‎', true], 
   [''] 
 ] //Number of owners
 
@@ -50,7 +50,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'kinflux bot🐉'
 global.premium = 'true'
 global.packname = 'kinflux┃ᴮᴼᵀ' 
-global.author = '‎『𝕮𝕯❦』⇝͜͡✪🏴‍☠️⃠⃤ΣRRΩR💀⃠⃤⇝͜͡✪' 
+global.author = '〘Ҡටའටའට•ꝈԱ↻įƑƐའ 🥀〙‎' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD\n' 
 global.dygp = 'https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD'
 global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
@@ -62,9 +62,9 @@ global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru
 global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
-global.done = '👀'
+global.done = '🥀'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '✅' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
